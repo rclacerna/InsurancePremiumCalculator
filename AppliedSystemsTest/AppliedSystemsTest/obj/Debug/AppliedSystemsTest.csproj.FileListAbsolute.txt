@@ -1,0 +1,18 @@
+c:\users\lacerna\documents\visual studio 2017\Projects\AppliedSystemsTest\AppliedSystemsTest\bin\Debug\AppliedSystemsTest.exe.config
+c:\users\lacerna\documents\visual studio 2017\Projects\AppliedSystemsTest\AppliedSystemsTest\bin\Debug\AppliedSystemsTest.exe
+c:\users\lacerna\documents\visual studio 2017\Projects\AppliedSystemsTest\AppliedSystemsTest\bin\Debug\AppliedSystemsTest.pdb
+c:\users\lacerna\documents\visual studio 2017\Projects\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.csprojResolveAssemblyReference.cache
+c:\users\lacerna\documents\visual studio 2017\Projects\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.PleaseEnterYourDetails.resources
+c:\users\lacerna\documents\visual studio 2017\Projects\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.Properties.Resources.resources
+c:\users\lacerna\documents\visual studio 2017\Projects\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.csproj.GenerateResource.Cache
+c:\users\lacerna\documents\visual studio 2017\Projects\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.exe
+c:\users\lacerna\documents\visual studio 2017\Projects\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.pdb
+C:\InsuranceCalculator-master\InsuranceCalculator-master\AppliedSystemsTest\AppliedSystemsTest\bin\Debug\AppliedSystemsTest.exe.config
+C:\InsuranceCalculator-master\InsuranceCalculator-master\AppliedSystemsTest\AppliedSystemsTest\bin\Debug\AppliedSystemsTest.exe
+C:\InsuranceCalculator-master\InsuranceCalculator-master\AppliedSystemsTest\AppliedSystemsTest\bin\Debug\AppliedSystemsTest.pdb
+C:\InsuranceCalculator-master\InsuranceCalculator-master\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.csprojResolveAssemblyReference.cache
+C:\InsuranceCalculator-master\InsuranceCalculator-master\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.PleaseEnterYourDetails.resources
+C:\InsuranceCalculator-master\InsuranceCalculator-master\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.Properties.Resources.resources
+C:\InsuranceCalculator-master\InsuranceCalculator-master\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.csproj.GenerateResource.Cache
+C:\InsuranceCalculator-master\InsuranceCalculator-master\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.exe
+C:\InsuranceCalculator-master\InsuranceCalculator-master\AppliedSystemsTest\AppliedSystemsTest\obj\Debug\AppliedSystemsTest.pdb
